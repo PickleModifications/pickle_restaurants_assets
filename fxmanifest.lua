@@ -4,7 +4,7 @@ lua54 'yes'
 
 author 'Pickle Modifications'
 description 'pickle_restaurants_assets - assets for Pickles Restaurants'
-version '1.0.0'
+version '1.0.1'
 
 files {
     'stream/pickle_restaurants.ytyp',
